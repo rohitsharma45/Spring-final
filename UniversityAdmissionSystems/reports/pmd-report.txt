@@ -1,0 +1,245 @@
+src/com/cg/uas/bean/ApplicantBean.java:29:	Each class should declare at least one constructor
+src/com/cg/uas/bean/ApplicantBean.java:29:	headerCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:34:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ApplicantBean.java:34:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:38:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ApplicantBean.java:38:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:42:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ApplicantBean.java:42:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:46:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ApplicantBean.java:46:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:50:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ApplicantBean.java:50:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:53:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ApplicantBean.java:53:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:57:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ApplicantBean.java:57:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:59:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:60:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:62:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:64:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:69:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:72:	Parameter 'applicationId' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:72:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:75:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:78:	Parameter 'fullName' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:78:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:81:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:84:	Parameter 'dateOfBirth' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:84:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:87:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:90:	Parameter 'qualification' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:90:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:93:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:96:	Parameter 'marks' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:96:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:99:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:102:	Parameter 'goals' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:102:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:105:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:108:	Parameter 'email' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:108:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:111:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:114:	Parameter 'programId' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:114:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:117:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:120:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:120:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:123:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:126:	Parameter 'interviewDate' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:126:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:129:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:132:	Parameter 'university' is not assigned and could be declared final
+src/com/cg/uas/bean/ApplicantBean.java:132:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ApplicantBean.java:137:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:8:	headerCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:13:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/LoginBean.java:13:	fieldCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:15:	fieldCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:17:	fieldCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:19:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/cg/uas/bean/LoginBean.java:19:	Document empty constructor
+src/com/cg/uas/bean/LoginBean.java:19:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:23:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:26:	Parameter 'loginId' is not assigned and could be declared final
+src/com/cg/uas/bean/LoginBean.java:26:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:29:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:32:	Parameter 'password' is not assigned and could be declared final
+src/com/cg/uas/bean/LoginBean.java:32:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:35:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/LoginBean.java:38:	Parameter 'role' is not assigned and could be declared final
+src/com/cg/uas/bean/LoginBean.java:38:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:12:	headerCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:16:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ProgramsOfferedBean.java:16:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:17:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:19:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:20:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:22:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/cg/uas/bean/ProgramsOfferedBean.java:22:	Document empty constructor
+src/com/cg/uas/bean/ProgramsOfferedBean.java:22:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:26:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:29:	Parameter 'programName' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsOfferedBean.java:29:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:32:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:35:	Parameter 'desc' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsOfferedBean.java:35:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:38:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:41:	Parameter 'eligibility' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsOfferedBean.java:41:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:44:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:47:	Parameter 'certificate' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsOfferedBean.java:47:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:50:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:53:	Parameter 'university' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsOfferedBean.java:53:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:56:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsOfferedBean.java:59:	Parameter 'duration' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsOfferedBean.java:59:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:14:	headerCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:18:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/ProgramsScheduledBean.java:18:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:19:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:20:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:21:	fieldCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:23:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/cg/uas/bean/ProgramsScheduledBean.java:23:	Document empty constructor
+src/com/cg/uas/bean/ProgramsScheduledBean.java:23:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:26:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:29:	Parameter 'schedulePgmId' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsScheduledBean.java:29:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:32:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:35:	Parameter 'programName' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsScheduledBean.java:35:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:38:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:41:	Parameter 'location' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsScheduledBean.java:41:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:44:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:47:	Parameter 'university' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsScheduledBean.java:47:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:50:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:53:	Parameter 'startDate' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsScheduledBean.java:53:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:56:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:59:	Parameter 'endDate' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsScheduledBean.java:59:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:62:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/ProgramsScheduledBean.java:65:	Parameter 'sessionsPerWeek' is not assigned and could be declared final
+src/com/cg/uas/bean/ProgramsScheduledBean.java:65:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:12:	headerCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:16:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/uas/bean/UniversityBean.java:16:	fieldCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:18:	fieldCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:20:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/cg/uas/bean/UniversityBean.java:20:	Document empty constructor
+src/com/cg/uas/bean/UniversityBean.java:20:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:23:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:26:	Parameter 'universityName' is not assigned and could be declared final
+src/com/cg/uas/bean/UniversityBean.java:26:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:29:	publicMethodCommentRequirement Required
+src/com/cg/uas/bean/UniversityBean.java:32:	Parameter 'code' is not assigned and could be declared final
+src/com/cg/uas/bean/UniversityBean.java:32:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:24:	Each class should declare at least one constructor
+src/com/cg/uas/controller/ApplicantController.java:24:	headerCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:26:	Use explicit scoping instead of the default package private level
+src/com/cg/uas/controller/ApplicantController.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/uas/controller/ApplicantController.java:27:	fieldCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:30:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:36:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:38:	Local variable 'uniList' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:43:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:43:	Parameter 'universityName' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:43:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:45:	Local variable 'pgmList' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:46:	Local variable 'session' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:47:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/controller/ApplicantController.java:52:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:52:	Parameter 'programName' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:52:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:52:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:53:	Local variable 'programId' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:56:	Local variable 'session' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:57:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/controller/ApplicantController.java:64:	Avoid variables with short names like br
+src/com/cg/uas/controller/ApplicantController.java:64:	Parameter 'application' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:64:	Parameter 'br' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:64:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:64:	Parameter 'request' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:64:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:67:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/uas/controller/ApplicantController.java:70:	Local variable 'session' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:71:	Local variable 'progamId' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:71:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/uas/controller/ApplicantController.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/controller/ApplicantController.java:72:	Local variable 'university' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:72:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/uas/controller/ApplicantController.java:72:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/controller/ApplicantController.java:78:	Avoid variables with short names like id
+src/com/cg/uas/controller/ApplicantController.java:78:	Local variable 'id' could be declared final
+src/com/cg/uas/controller/ApplicantController.java:85:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:85:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:92:	Parameter 'applicationId' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:92:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:92:	publicMethodCommentRequirement Required
+src/com/cg/uas/controller/ApplicantController.java:94:	Found 'DD'-anomaly for variable 'statusCheck' (lines '94'-'97').
+src/com/cg/uas/controller/ApplicantController.java:99:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cg/uas/controller/ApplicantController.java:102:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/uas/controller/ApplicantController.java:110:	Parameter 'model' is not assigned and could be declared final
+src/com/cg/uas/controller/ApplicantController.java:110:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/IUasDao.java:9:	headerCommentRequirement Required
+src/com/cg/uas/dao/IUasDao.java:12:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/IUasDao.java:14:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/IUasDao.java:16:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/IUasDao.java:18:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/IUasDao.java:20:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:19:	Each class should declare at least one constructor
+src/com/cg/uas/dao/UasDaoImpl.java:19:	headerCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/uas/dao/UasDaoImpl.java:23:	fieldCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:26:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:29:	Local variable 'query' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:30:	Local variable 'idList' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:30:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/dao/UasDaoImpl.java:31:	Consider simply returning the value vs storing it in local variable 'idList'
+src/com/cg/uas/dao/UasDaoImpl.java:37:	Parameter 'universityName' is not assigned and could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:37:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:38:	Local variable 'query' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/uas/dao/UasDaoImpl.java:39:	Local variable 'pgmList' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:39:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/dao/UasDaoImpl.java:40:	Consider simply returning the value vs storing it in local variable 'pgmList'
+src/com/cg/uas/dao/UasDaoImpl.java:45:	Parameter 'application' is not assigned and could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:45:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:55:	Parameter 'programName' is not assigned and could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:55:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:56:	Local variable 'query' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/uas/dao/UasDaoImpl.java:57:	Local variable 'programId' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:57:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/dao/UasDaoImpl.java:67:	Parameter 'applicationId' is not assigned and could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:67:	publicMethodCommentRequirement Required
+src/com/cg/uas/dao/UasDaoImpl.java:68:	Local variable 'query' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:68:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/uas/dao/UasDaoImpl.java:69:	Local variable 'status' could be declared final
+src/com/cg/uas/dao/UasDaoImpl.java:69:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/uas/dao/UasDaoImpl.java:70:	Consider simply returning the value vs storing it in local variable 'status'
+src/com/cg/uas/service/IUasService.java:9:	headerCommentRequirement Required
+src/com/cg/uas/service/IUasService.java:12:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/IUasService.java:14:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/IUasService.java:16:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/IUasService.java:18:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/IUasService.java:20:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/UasServiceImpl.java:15:	Each class should declare at least one constructor
+src/com/cg/uas/service/UasServiceImpl.java:15:	headerCommentRequirement Required
+src/com/cg/uas/service/UasServiceImpl.java:17:	Use explicit scoping instead of the default package private level
+src/com/cg/uas/service/UasServiceImpl.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/uas/service/UasServiceImpl.java:18:	fieldCommentRequirement Required
+src/com/cg/uas/service/UasServiceImpl.java:22:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/UasServiceImpl.java:28:	Parameter 'universityName' is not assigned and could be declared final
+src/com/cg/uas/service/UasServiceImpl.java:28:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/UasServiceImpl.java:34:	Parameter 'application' is not assigned and could be declared final
+src/com/cg/uas/service/UasServiceImpl.java:34:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/UasServiceImpl.java:40:	Parameter 'programName' is not assigned and could be declared final
+src/com/cg/uas/service/UasServiceImpl.java:40:	publicMethodCommentRequirement Required
+src/com/cg/uas/service/UasServiceImpl.java:46:	Parameter 'applicationId' is not assigned and could be declared final
+src/com/cg/uas/service/UasServiceImpl.java:46:	publicMethodCommentRequirement Required
